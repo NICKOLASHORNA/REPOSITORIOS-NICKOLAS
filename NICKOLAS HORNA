@@ -1,0 +1,8 @@
+# CALCULADORA DE AREAS _ VERSION 1 
+#STUDENT: NICKOLAS HORNA IGNACIO
+
+lado = float(input("Ingrese el lado del cuadrado: "))
+
+area = lado * lado
+
+print("El area del cuadrado es: ", area)
